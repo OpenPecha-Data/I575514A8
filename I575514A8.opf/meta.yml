@@ -1,0 +1,24 @@
+id: I575514A8
+initial_creation_type: ebook
+source_metadata:
+  id: BEN-SH-28
+  title: ༄༅། །ཞི་ལྷག་གི་སྒོམ་རིམ་དང་། རྗེ་བཙུན་མི་ལའི་གསུང་མགུར།
+  author: མཛད་པ་པོ། ༧སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  authors: &id001
+  - མཛད་པ་པོ། ༧སངས་རྒྱས་མཉན་པ་རིན་པོ་ཆེ།
+  sku: BEN-SH-28
+  cover: BEN-SH-28.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཞི་ལྷག་གི་སྒོམ་རིམ་དང་། རྗེ་བཙུན་མི་ལའི་གསུང་མགུར།
+  authors: *id001
+  sku: BEN-SH-28
+  cover: BEN-SH-28.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
