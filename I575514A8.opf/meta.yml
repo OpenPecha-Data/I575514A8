@@ -16,6 +16,7 @@ ebook_metadata:
   cover: BEN-SH-28.jpg
 layers:
 - Author
+- BookNumber
 - BookTitle
 - Chapter
 - Citation
